@@ -1,0 +1,18 @@
+[2022.11.01 13:05.34] Program started.
+[2022.11.01 13:05.43] File 'some.bin' have been opened x = -92559631349317830736831783200707727132248687965119994463780864.00.
+[2022.11.01 13:05.43] Expression calculated. Result = -0.729659
+[2022.11.01 13:05.49] Output file "out.txt" saved.
+[2022.11.01 13:05.49] Program ended.
+
+[2022.11.01 15:33.47] Program started.
+[2022.11.01 15:33.52] File 'some.bin' have been opened x = -92559631348868795776743404926768693433684365603291800251924480.00.
+[2022.11.01 15:33.52] Expression calculated. Result = 1.285646
+[2022.11.01 15:33.56] Output file "some.txt" saved.
+[2022.11.01 15:33.56] Program ended.
+
+[2022.11.01 16:40.37] Program started.
+[2022.11.01 16:40.42] File 'values.bin' have been opened x = 3.00.
+[2022.11.01 16:40.42] Expression calculated. Result = -0.848872
+[2022.11.01 16:40.46] Output file "name.txt" saved.
+[2022.11.01 16:40.46] Program ended.
+
